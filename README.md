@@ -29,7 +29,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 ### 2. Configuraciones según el plugin:
 
-Modifica el archivo ~/.vimrc y pon la siguiente configuración:
+Modifica el archivo ~/.vimrc y pon la siguiente configuración
+
 En Unix:
 ```bash
 git clone https://github.com/mrx04programmer/my-vim.git
@@ -42,7 +43,12 @@ git clone https://github.com/mrx04programmer/my-vim.git
 cd my-vim
 ./init.bat
 ```
+### 3. Instalar Plugins
+```bash
+vim
+:PlugInstall
 
+```
 ## 🔌 Plugins y Funcionalidades
 
 | Plugin | Propósito | Categoría |
