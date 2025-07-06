@@ -1,4 +1,4 @@
-
+Lenguaje [🇬🇧 English](https://github.com/mrx04programmer/my-vim/blob/main/README-EN.md) | [🇪🇸 Español](https://github.com/mrx04programmer/my-vim/blob/main/README.md)
 # 🚀 Vim Configuración Personalizada
 
 Este entorno de Vim está diseñado para desarrollo avanzado, con plugins para autocompletado, navegación de archivos, integración con Tmux, edición eficiente y más.
