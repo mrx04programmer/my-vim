@@ -3,6 +3,8 @@
 
 Este entorno de Vim está diseñado para desarrollo avanzado, con plugins para autocompletado, navegación de archivos, integración con Tmux, edición eficiente y más.
 
+![imagen](https://github.com/user-attachments/assets/e0dc02d2-5036-4238-9045-43c87b664d0c)
+
 ---
 
 ## 📦 Requisitos Previos
